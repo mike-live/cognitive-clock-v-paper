@@ -2,6 +2,9 @@
 
 This repository is consists of the code used in the paper for computation of cognitive age using API and corresponsing test part of the dataset. 
 
+Find out your cognitive age on the platform:
+`https://dpm-ageing.unn.ru/en/cognitive-age-calculator-v3/`
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -17,7 +20,7 @@ This repository is consists of the code used in the paper for computation of cog
 
 ## Introduction
 
-Cognitive Clock V - is a new AI-based clock for identification of cognitive age of individual based on the 5 tests: 1-Back test, reversed letters test, arithmetic test, Stroop test and Campimetry test.
+Cognitive Clock V — is a new AI-based clock for identification of cognitive age of individual based on the 5 tests: 1-Back test, reversed letters test, arithmetic test, Stroop test and Campimetry test.
 
 ## Dataset
 
@@ -67,17 +70,18 @@ Center of Artificial Intelligence Lobachevsky University.
 
 ## Author
 
-* **Mikhail Krivonosov** - *Implementation* - [mike_live](https://github.com/mike_live)
-* **Tatiana Khabarova** - *Implementation* - [enot9910](https://github.com/enot9910)
-* **Elena Kondakova** -- *Participants recruitment, study organisation*
-* **Tatiana Shvets** -- *Cognitive result analysis*
-* **Sofia Polevaya** -- *The cognitive tests inventor, project vision*
-* **Claudio Franceschi** -- *Project vision*
-* **Mikhail Ivanchenko** -- *Project vision*
+* **Mikhail Krivonosov** — *Implementation* - [mike_live](https://github.com/mike_live)
+* **Tatiana Khabarova** — *Implementation* - [enot9910](https://github.com/enot9910)
+* **Elena Kondakova** — *Participants recruitment, study organisation*
+* **Tatiana Shvets** — *Cognitive result analysis*
+* **Sofia Polevaya** — *The cognitive tests inventor, project vision*
+* **Claudio Franceschi** — *Project vision*
+* **Mikhail Ivanchenko** — *Project vision*
 
 
 ## Contact
 
 Center of Artificial Intelligence Lobachevsky University.
 
+Find out your cognitive age on the platform:
 `https://dpm-ageing.unn.ru/en/cognitive-age-calculator-v3/`
