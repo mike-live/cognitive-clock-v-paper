@@ -63,7 +63,7 @@ You may not use the material for commercial purposes.
 ## Citation
 
 ```
-M.I. Krivonosov, T.A. Khabarova, E.V. Kondakova, S.A. Polevaya, M.V. Ivanchenko, C. Franceschi (2025). 
+M.I. Krivonosov, T.A. Khabarova, E.V. Kondakova, S.A. Polevaya, M.V. Ivanchenko, C. Franceschi (2024). 
 Cognitive age calculator v3.0 © Copyright 2024. 
 Center of Artificial Intelligence Lobachevsky University.
 ```
